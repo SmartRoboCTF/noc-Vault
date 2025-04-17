@@ -42,7 +42,7 @@ Thank you for supporting independent security lab developers 🖤
 
 ----
 
-✍️ Writeup available by [@your-username](https://github.com/kushagravarshney101/) — [Read it here](https://www.notion.so/CTF-Writeup-Mission-Impossible-Challenge-1d80dad6d5a780deb079e36da494add9?pvs=4)
+✍️ Writeup available by [@kushagravarshney101](https://github.com/kushagravarshney101/) — [Read it here](https://www.notion.so/CTF-Writeup-Mission-Impossible-Challenge-1d80dad6d5a780deb079e36da494add9?pvs=4)
 
 ----
 ## 📣 Author
