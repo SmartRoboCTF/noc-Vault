@@ -40,11 +40,17 @@ If you enjoyed this machine and want to support more CTF creations:
 
 Thank you for supporting independent security lab developers 🖤
 
+----
+
+✍️ Writeup available by [@your-username](https://github.com/kushagravarshney101/) — [Read it here](https://www.notion.so/CTF-Writeup-Mission-Impossible-Challenge-1d80dad6d5a780deb079e36da494add9?pvs=4)
+
+----
 ## 📣 Author
 
 Crafted with stealth and passion by [@MohsinQuresh](https://github.com/SmartRoboCTF)
 
 ---
+
 
 *This mission will not self-destruct, but your time might…*
 
